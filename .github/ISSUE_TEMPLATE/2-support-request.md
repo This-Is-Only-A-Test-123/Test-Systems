@@ -5,47 +5,56 @@ title: "[Support Request] <your title here>"
 labels: 'status/new'
 assignees: 'WilliamMiceli'
 ---
-## Requesting Organization (Manufacturing/Aftermarket/Production Quality/Engineering/etc)
+## Requesting Organization
+*Manufacturing/Aftermarket/Production Quality/Engineering/etc*
 
 
 
 
-## Location (Clearwater or Grand Rapids)
+## Location
+*Clearwater or Grand Rapids*
 
 
 
 
-## Part Name (The Name and/or Description of the part)
+## Part Name
+*The Name and/or Description of the part*
 
 
 
 
-## Part Number (The identifying part number)
+## Part Number
+*The identifying part number*
 
 
 
 
-## Priority (Urgent (AOG) / Urgent (Ship Hold) / Important (SPMT) / Important (FAI or SPR) / Medium (Supplier Quality, Product Improvements) / Routine (General Support))
+## Priority
+*Urgent (AOG) / Urgent (Ship Hold) / Important (SPMT) / Important (FAI or SPR) / Medium (Supplier Quality, Product Improvements) / Routine (General Support)*
 
 
 
 
-## Request (Description of the request)
+## Request
+*Description of the request*
 
 
 
 
-## Request Due Date (When does this request need to be completed by?)
+## Request Due Date
+*When does this request need to be completed by?*
 
 
 
 
-## Top-Level Name (Affected Top-Level LRU Name)
+## Top-Level Name
+*Affected Top-Level LRU Name*
 
 
 
 
-## Top-Level Number (Affected Top-Level LRU Number)
+## Top-Level Number
+*Affected Top-Level LRU Number*
 
 
 
