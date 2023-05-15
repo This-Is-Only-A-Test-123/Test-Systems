@@ -6,13 +6,13 @@ labels: "status/new"
 #assignees: '' 
 ---
 ## Product Affected
-**Which product does this problem occur in? Example: 650XXX-Widget-ESS**
+*Which product does this problem occur in? Example: 650XXX-Widget-ESS*
 
 
 
 
 ## Problem Description
-**Please describe the problem in as much detail as possible**
+*Please describe the problem in as much detail as possible*
 
 
 
