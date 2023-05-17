@@ -1,8 +1,8 @@
 ---
 name: Support Request
 about: Create a request for support
-title: "[Support Request] <your title here>"
-labels: 'status/new'
+title: '[Support Request] <your title here>'
+labels: 'status/new','type/problem-report'
 assignees: 'WilliamMiceli'
 ---
 ## Requesting Organization

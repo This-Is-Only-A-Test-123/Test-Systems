@@ -1,8 +1,8 @@
 ---
 name: Problem Report
 about: Create a report to help us improve
-title: "[Problem Report] <your title here>"
-labels: "status/new"
+title: '[Problem Report] <your title here>'
+labels: 'status/new','type/problem-report'
 #assignees: '' 
 ---
 ## Product Affected

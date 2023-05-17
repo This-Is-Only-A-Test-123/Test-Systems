@@ -1,8 +1,8 @@
 ---
 name: Quality Alert Notice
 about: QAN
-title: "[QAN] <your title here>"
-labels: 'status/new'
+title: '[QAN] <your title here>'
+labels: 'status/new','type/quality-alert-notice'
 #assignees: ''
 ---
 ## Part Number (Identifying part number)
