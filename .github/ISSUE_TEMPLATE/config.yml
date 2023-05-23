@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-- name: Example Link 1
+- name: Example Link 1 (Link to Instructions?)
   about: An example for linking to anywhere needed, may instructions/guides? (Internal links also valid)
   url: https://www.geaerospace.com/
-- name: Example Link 2
+- name: Example Link 2 (Link to Documentation?)
   about: Another example link
   url: https://www.ge.com/

@@ -1,9 +1,9 @@
 ---
-name: Support Request
+name: [Product Engineering] Support Request
 about: Create a request for support
 title: '[Support Request] <your title here>'
-labels: status/new, type/support-request
-assignees: 'WilliamMiceli'
+labels: ['status/new', 'type/support-request']
+#assignees: 'WilliamMiceli'
 ---
 ## Requesting Organization
 *Manufacturing/Aftermarket/Production Quality/Engineering/etc*
