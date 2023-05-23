@@ -1,5 +1,5 @@
 ---
-name: [Product Engineering] Problem Report
+name: Product Engineering - Problem Report
 about: Create a report to help us improve
 title: '[Problem Report] <your title here>'
 labels: ['status/new', 'type/problem-report']
